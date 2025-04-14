@@ -1,6 +1,6 @@
 # maxshishkin.com
 
-This is one of two repositories created for my portfolio website <a href="https://maxshishkin.com/"><samp>maxshishkin.com</samp></a>. If you are looking for the 2D OS repository you can find it <a href="https://github.com/maxshishkin/portfolio-inner-site"><samp>here</samp></a>! Thanks for taking the time to check this out. If you have any questions of comments, feel free to shoot me an email at <samp><a href="mailto:maxshishkin@gmail.com">maxshishkin@gmail.com</a></samp>
+This is one of two repositories created for my portfolio website <a href="https://maxshishkin.com/"><samp>maxshishkin.com</samp></a>. If you are looking for the 2D OS repository you can find it <a href="https://github.com/maxshishkin/portfolio-inner-site"><samp>here</samp></a>! Thanks for taking the time to check this out. If you have any questions of comments, feel free to shoot me an email at <samp><a href="mailto:hello@maxshishkin.com">hello@maxshishkin.com</a></samp>
 
 <br>
 
